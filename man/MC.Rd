@@ -5,7 +5,7 @@
   MC makes closures for defining functions in a function.
 }
 \usage{
-MC(f, env)
+MC(f, env=NULL)
 }
 
 \arguments{

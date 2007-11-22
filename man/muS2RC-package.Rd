@@ -14,9 +14,9 @@ or defined in Splus while not in R.
 \tabular{ll}{
 Package: \tab muS2RC\cr
 Type: \tab Package\cr
-Version: \tab 1.1\cr
-Date: \tab 2007-01-01\cr
-License: \tab GPL version 2 or newer \cr
+Version: \tab 1.3\cr
+Date: \tab 2007-11-22\cr
+License: \tab GPL version 2 or newer
 }
 }
 

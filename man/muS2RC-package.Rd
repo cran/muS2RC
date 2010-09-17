@@ -14,8 +14,8 @@ or defined in Splus while not in R.
 \tabular{ll}{
 Package: \tab muS2RC\cr
 Type: \tab Package\cr
-Version: \tab 1.5.0\cr
-Date: \tab 2008-02-07\cr
+Version: \tab 1.6.0\cr
+Date: \tab 2010-09-17\cr
 License: \tab GPL (>= 2)
 }
 }
@@ -27,9 +27,7 @@ License: \tab GPL (>= 2)
 Maintainer: Tingting Song \email{ttsong@gmail.com}
 }
 
-\seealso{
-\code{\link[muR2SC:muR2SC-package]{muR2SC}}
-}
+
 \examples{
 x <- c(1, 4, NA, 0, 5)
 anyMissing(x)
